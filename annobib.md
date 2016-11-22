@@ -1,6 +1,7 @@
 # Towards a greater understanding of stability in ecological communities.  
 Jonathan J. Borrelli
 
+
 ## Annotated Bibliography
 
 May, RM. 1972. Will a large complex system be stable? _Nature_ 238: 413-414. 
